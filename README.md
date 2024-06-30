@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yezoks
-- 👀 I’m interested in learning coding and programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on some minor / major projects and expand my knowledge on problem solving via the programming languages.
+- 👀 I’m a Network Engineer and I am interested in learning DevOps, coding, and programming.
+- - 🌱 I’m currently learning automation, Version Control System, and Python.
+- 💞️ I’m looking to collaborate on some minor/major projects and expand my knowledge in problem-solving via the programming languages.
 - 📫 You can reach me via my email address yezoksworld@gmail.com
 
 <!---
