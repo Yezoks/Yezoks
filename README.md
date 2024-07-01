@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Yezoks
-- 👀 I’m a Network Engineer and I am interested in learning DevOps, coding, and programming.
-- - 🌱 I’m currently learning automation, Version Control System, and Python.
+- 👋 Hi, I’m Adeyemi Olayinka
+- 👀 I’m a Network Engineer and I am interested in learning Network Automation, DevOps, coding, and programming.
+- - 🌱 I’m currently learning Network Automation using Ansible, python, etc
 - 💞️ I’m looking to collaborate on some minor/major projects and expand my knowledge in problem-solving via the programming languages.
 - 📫 You can reach me via my email address yezoksworld@gmail.com
 
